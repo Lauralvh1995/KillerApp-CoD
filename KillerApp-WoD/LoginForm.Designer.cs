@@ -90,6 +90,7 @@
             this.btLogIn.TabIndex = 5;
             this.btLogIn.Text = "Log In";
             this.btLogIn.UseVisualStyleBackColor = true;
+            this.btLogIn.Click += new System.EventHandler(this.btLogIn_Click);
             // 
             // lbNoAccount
             // 
